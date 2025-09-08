@@ -328,4 +328,72 @@ Beyond accountability, the MEL function has a **strategic role in learning and a
 4. Add **table of abbreviations** (AfDB, AFAWA, GETF, MEL, DQA, IRS, ToR, RBM, MRM, etc.).
 5. Include **DACON number** once issued.
 
+# C
+
+## ✅ Observations from Martin
+
+1. **Strategic Context** – ✅ Already accepted, no further work needed.
+2. **Executive Summary** – Needs to be restored **before Strategic Context**.
+3. **Methodology subsections (2.1–2.5)** – Must be **expanded further**, each bullet → **3–4 sentences minimum**.
+4. **Gantt Chart** – Must be presented in a **proper format (visual table/graphic)**, not just a list.
+
+---
+
+## 📄 Draft Fixes for Next Iteration
+
+### 1. Executive Summary (to restore at top)
+
+> **Executive Summary**
+> I propose to lead the Monitoring, Evaluation, and Learning (MEL) function for the GETF Secretariat, establishing an adaptive Monitoring & Results Measurement (MRM) system, coordinating data collection and partner reporting, and producing high-quality donor reports and knowledge products aligned to AfDB standards. With 20+ years of experience across USAID, AfDB, UN WFP, DFID/UK, DANIDA and Government of Uganda programmes, I will consolidate GETF data flows (grants to financial intermediaries, incubators/accelerators, research institutions, and public entities), embed gender-transformative indicators, and strengthen evidence for decision-making toward AFAWA’s objective of unlocking finance for women entrepreneurs.
+
+---
+
+### 2. Methodology Subsections – Expanded
+
+#### 2.1 Design & Alignment
+
+The first step will be to **map the GETF theory of change to AFAWA’s corporate M\&E framework**. This ensures alignment between donor commitments, AfDB reporting standards, and the practical work of implementing partners. For each grant or partner, intervention-level results chains will be developed to show the logical link from inputs to gender-transformative outcomes.
+To make this operational, **Indicator Reference Sheets (IRS)** will be drafted with formulas, definitions, and disaggregation categories (sex, age, sector, geography). Each indicator will specify data sources, collection frequency, and responsible parties. By building clarity upfront, the MEL system will reduce inconsistencies and enable reliable aggregation across diverse partners.
+
+#### 2.2 Systems & Tools
+
+A **platform-agnostic online MEL system** will be configured to serve as the central hub for data entry, validation, and visualization. The system will include role-based access for partners, automated checks for data quality, and built-in audit trails. ETL (Extract–Transform–Load) pipelines will standardize incoming datasets, minimizing manual errors and improving timeliness.
+In addition, a suite of **harmonized templates** will be introduced, covering baseline survey tools, reporting forms, case study briefs, and training attendance sheets. These will not only standardize reporting but also provide user-friendly guidance to partners, ensuring greater adoption and comparability across projects.
+
+#### 2.3 Execution & Coordination
+
+Execution will begin with a **partner orientation workshop**, where MEL requirements and templates are explained and tested. This collaborative approach will increase partner buy-in and smooth adoption of the new system. Quarterly data calls and reviews will follow, ensuring that information flows consistently and that emerging issues are flagged early.
+Coordination with AfDB’s **Delivery, Performance, and Results Department** will be prioritized so that GETF outputs are fully integrated into AfDB’s corporate systems. The consultant will also maintain a live, auditable database with metadata and version control, which provides both compliance assurance and institutional memory.
+
+#### 2.4 Learning & Communication
+
+Learning is a **central pillar** of the MEL function. Beyond reporting, the consultant will generate practical evidence products—such as donor reports, synthesis notes, slide decks, and short knowledge briefs—that communicate insights to different audiences. After-action reviews will be organized with partners to reflect on progress and adapt strategies.
+To ensure visibility, **stories of significant change** will be documented, highlighting women entrepreneurs who benefit directly from GETF support. These narratives will complement quantitative results, giving donors a more holistic view of impact while enhancing AFAWA’s advocacy and communication efforts.
+
+#### 2.5 Evaluation Support
+
+The consultant will scope and quality-assure **mid-term and final evaluations**, ensuring that methods are appropriate for gender-sensitive programming. A combination of **contribution analysis, outcome harvesting, and most significant change (MSC)** will be deployed, capturing both expected and unanticipated results.
+In addition, **management response tracking** will be institutionalized so that evaluation recommendations are not only documented but also acted upon. This ensures that learning loops are closed, and that findings inform future resource allocation and program adjustments.
+
+---
+
+### 3. Gantt Chart (Improved Format)
+
+Here’s a **visual Gantt-style table** you can drop into Word/Excel or recreate graphically:
+
+| Activity                                  | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 | Month 6 |
+| ----------------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Inception & MEL alignment workshop        | ███     |         |         |         |         |         |
+| Results chains & IRS development          | ███     |         |         |         |         |         |
+| System configuration & partner onboarding | █       | ███     |         |         |         |         |
+| Data Quality Assurance plan               |         | █       |         |         |         |         |
+| Quarterly data call & synthesis           |         | █       | █       |         |         |         |
+| Portfolio dashboard v1                    |         |         | █       |         |         |         |
+| Case study pipeline                       |         |         |         | █       |         |         |
+| Mid-term review support                   |         |         |         | █       |         |         |
+| Semi-annual report & evidence briefs      |         |         |         |         | █       |         |
+| Lessons learned & final handover          |         |         |         |         |         | ███     |
+
+*(Shaded “███” can be formatted as filled bars in Word/Excel to make it look like a proper Gantt chart.)*
+
  
