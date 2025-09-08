@@ -1,6 +1,5 @@
-I've drafted both the **Technical Proposal** and the **Financial Proposal** in one place for easy editing. You’ll see them on the canvas to the right, with clear sections, deliverables, a 6-month workplan, and a fee template you can tune.
 
-# Technical Proposal (Draft)
+# A. Technical Proposal (Draft)
 
 **Assignment:** Monitoring and Evaluation Consultant to Support the Operationalization of the Multi‑Donor Gender Equality Trust Fund (GETF)
 **Applicant:** Martin Muwaga
@@ -235,3 +234,98 @@ Quick highlights + checks (mapped to the RFP & ToR + your CV):
 4. Whether you want payments **monthly** or **milestone-linked** (I provided both options).
 
 If you'd like, I can instantly split the canvas into **two separate, submission-ready docs (PDF/Word)** with a short **transmittal email** pre-addressed to the three AfDB contacts.
+
+# B.  📄 Technical Proposal – Expanded Draft
+
+## 1. Strategic Context (expand to 2–3 paragraphs)
+
+The Affirmative Finance Action for Women in Africa (AFAWA) is the African Development Bank’s flagship initiative to close the \$42 billion financing gap for women-led small and medium-sized enterprises (MSMEs). Within this initiative, the **Gender Equality Trust Fund (GETF)** serves as a multi-donor financing platform, pooling resources from bilateral and multilateral partners to catalyze gender-transformative change. The GETF Secretariat is tasked with ensuring that financial flows are strategically deployed, that lessons from implementation are captured, and that donor accountability requirements are fully met.
+
+Operationalizing such a facility requires an **adaptive Monitoring, Evaluation, and Learning (MEL) system** capable of managing complexity across diverse implementing partners—including financial intermediaries, accelerators, incubators, research institutions, and government entities. Each partner brings unique mandates, data practices, and capacity levels. Harmonizing these within a single results framework, while ensuring comparability across contexts, is critical. The MEL function must therefore combine rigorous quantitative tracking with qualitative insight to illuminate how financial flows translate into women’s empowerment and enterprise growth.
+
+Beyond accountability, the MEL function has a **strategic role in learning and adaptation**. By embedding complexity-aware evaluation approaches—such as outcome harvesting, contribution analysis, and developmental evaluation—the Secretariat can generate actionable insights for AFAWA management and donors. This ensures that GETF is not only compliant with AfDB reporting standards but also responsive to the evolving realities of gender financing in Africa.
+
+---
+
+## 2. Methodology (expand subsections to \~1 page)
+
+### 2.1 Design & Alignment
+
+* Map the overall GETF theory of change to AFAWA’s corporate M\&E plan.
+* Develop **intervention-level results chains** for each grant to show causal pathways.
+* Establish **Indicator Reference Sheets (IRS)** with disaggregation (sex, geography, sector), formulas, frequency, and responsibilities.
+* Align with AfDB Results Measurement Framework (RMF), SDG 5, and donor logframes.
+
+### 2.2 Systems & Tools
+
+* Configure a **platform-agnostic online MEL system** with modules for partner onboarding, data entry, validation, and visualization.
+* Apply **ETL pipelines** (Extract, Transform, Load) to automate data cleaning and integration.
+* Create **harmonized templates** for surveys, reporting forms, case studies, and evaluation ToRs.
+* Build-in **data quality assurance (DQA)** checks (validity, reliability, timeliness).
+
+### 2.3 Execution & Coordination
+
+* Conduct **partner MEL orientation workshops** to ensure common understanding.
+* Run **quarterly data reviews** and **semi-annual synthesis meetings**.
+* Maintain a secure, auditable **M\&E database** with metadata and traceability.
+* Coordinate with AfDB’s **Delivery, Performance, and Results Department** to ensure comparability with Bank-wide standards.
+
+### 2.4 Learning & Communication
+
+* Produce **donor reports, evidence briefs, slide decks, and web/social snippets** for dissemination.
+* Organize **after-action reviews** to capture lessons and promote adaptive management.
+* Curate **stories of significant change** to demonstrate impact at beneficiary level.
+* Support AfDB’s knowledge management agenda by feeding GETF evidence into broader institutional learning.
+
+### 2.5 Evaluation Support
+
+* Scope, commission, and quality-assure **mid-term and final evaluations**.
+* Apply **contribution analysis, outcome mapping, and most significant change (MSC)** to assess gender-transformative impact.
+* Track **management responses** to evaluation findings and ensure uptake of recommendations.
+
+---
+
+## 3. Workplan – Gantt Chart (indicative, 6 months)
+
+| Month | Key Activities                                                                              |
+| ----- | ------------------------------------------------------------------------------------------- |
+| 1     | Inception, document review, MEL alignment workshop, draft results chains, IRS, system plan  |
+| 2     | Baseline plans, partner onboarding, DQA plan, 1st quarterly data call                       |
+| 3     | Database live, dashboard v1, partner training, 1st quarterly synthesis                      |
+| 4     | Case study pipeline, knowledge product outline, mid-term review support, corrective actions |
+| 5     | Semi-annual report, gender evidence briefs, dashboard update                                |
+| 6     | Lessons learned compendium, evaluation ToRs, management response tracking, handover         |
+
+*(Deliverable milestones can be shaded in Gantt format in Word/Excel for submission.)*
+
+---
+
+## 4. Risk Management (expand bullets)
+
+* **Data heterogeneity and timeliness**: Risks arise from varied partner data systems and uneven reporting capacity. This will be mitigated by harmonized templates, automated validation, and quarterly data reviews to ensure alignment before synthesis.
+* **Partner capacity gaps**: Many partners may have limited M\&E expertise. To mitigate, targeted MEL trainings, on-demand DQA support, and simple guidance notes will be provided, ensuring both compliance and capacity strengthening.
+* **System adoption**: A common risk is low uptake of new digital systems. To address this, early co-design workshops, user-friendly UX, and step-by-step SOPs will be developed. Dedicated “office hours” will be offered for troubleshooting.
+* **Attribution vs. contribution**: In multi-stakeholder environments, attributing outcomes to GETF alone is difficult. Triangulation of data, contribution analysis, and outcome harvesting will clarify how GETF adds value without overclaiming.
+* **Data privacy and ethics**: Given sensitive information on women entrepreneurs, risks around confidentiality exist. Mitigation includes access controls, informed consent protocols, and secure storage consistent with AfDB and donor policies.
+
+---
+
+## 📊 Financial Proposal – Key Updates
+
+* Replace placeholder **\$10,500/month** with your **final rate**.
+* Total in draft = **\$64,200 for 6 months excl. taxes**.
+* Decide between **monthly payment** (default) or **milestone-linked** (appendix provided).
+* Insert **DACON number** once available.
+* Remove **contingency line** if AfDB guidance does not allow.
+
+---
+
+## ✅ Next Steps
+
+1. Insert expanded **strategic context, methodology, risks** (above text).
+2. Prepare a **Gantt chart figure** for the workplan.
+3. Confirm your **monthly fee** or switch to milestone-linked schedule.
+4. Add **table of abbreviations** (AfDB, AFAWA, GETF, MEL, DQA, IRS, ToR, RBM, MRM, etc.).
+5. Include **DACON number** once issued.
+
+ 
