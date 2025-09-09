@@ -423,3 +423,61 @@ Monitoring gender-sensitive programming involves collecting potentially sensitiv
 ---
 
 Would you like me to also draft a **Table of Abbreviations** (AfDB, AFAWA, GETF, MEL, DQA, IRS, ToR, RBM, MRM, etc.) since Martin flagged that earlier, so your next iteration bundles everything he asked for?
+
+# E
+Perfect — here’s a **fully fleshed-out version** of the three sections Martin flagged. Each bullet is expanded into 3–4 sentences, ready to paste into your draft:
+
+---
+
+## 1) Implications for MEL
+
+**A portfolio with multiple implementing partners requires harmonized results chains, indicator definitions, and reporting cycles.**
+The GETF portfolio spans financial intermediaries, accelerators, incubators, research institutions, and public entities, each with distinct objectives and reporting practices. Without harmonization, results cannot be compared or aggregated across partners, creating gaps in accountability and donor reporting. By developing a unified set of results chains, clear indicator definitions, and synchronized reporting cycles, the Secretariat ensures consistency and comparability. This also reduces the reporting burden on partners, who can align to one system rather than respond to multiple parallel requirements.
+
+**The M\&E online system must consolidate data (quantitative + qualitative) and ensure traceability for baselines, targets, and results—enabling quarterly/semester/annual reporting and mid-term/final reviews.**
+Given the diversity of data types, the MEL system must integrate both numerical indicators and qualitative narratives, ensuring they feed into one coherent evidence base. Traceability features—such as audit trails, metadata, and version control—are essential to maintain credibility and donor confidence. This functionality enables seamless production of quarterly, semi-annual, and annual reports, as well as mid-term and final reviews that draw directly from the consolidated system. Ultimately, the MEL system will act as both an accountability tool and a learning engine for adaptive management.
+
+**Gender-transformative impact must be made visible through sex-disaggregated indicators and case studies capturing significant change for women-led MSMEs.**
+A core aim of GETF is to demonstrate how financial interventions translate into tangible empowerment for women entrepreneurs. This requires more than counting outputs: it requires systematically disaggregating indicators by sex, sector, and geography, while also documenting qualitative evidence of change. Case studies and stories of significant change will complement quantitative results, offering nuanced insights into barriers, successes, and pathways to transformation. By foregrounding women’s voices and experiences, the MEL function will make gender impact visible and actionable for both donors and policymakers.
+
+---
+
+## 2) Deliverables
+
+**Inception report with MEL architecture, results chains, IRS set, DQA plan, and M\&E system implementation plan.**
+The inception report will set the foundation for the consultancy, presenting the overall MEL framework in detail. It will include results chains that link partner-level activities to GETF and AFAWA outcomes, a complete set of Indicator Reference Sheets (IRS), and a Data Quality Assurance (DQA) plan. The report will also provide a roadmap for implementing the M\&E system, specifying timelines, roles, and expected outputs. Once validated, this report will serve as the baseline against which progress and compliance are measured.
+
+**Configured M\&E online system + partner reporting templates.**
+The online MEL system will be customized to GETF requirements and accessible to all implementing partners via secure logins. It will include dashboards for real-time visualization, automated validation to improve data quality, and storage protocols that ensure data integrity. Partner reporting templates will be embedded within the system to ensure consistency across actors, reducing duplication and easing the reporting burden. Together, these tools will create a streamlined, digital-first MEL environment for GETF.
+
+**Quarterly data reviews and portfolio synthesis notes.**
+Each quarter, partner data submissions will be consolidated and reviewed for accuracy, timeliness, and completeness. These sessions will not only validate data but also provide space for joint reflection with partners on trends, challenges, and lessons emerging from the portfolio. The Secretariat will then produce synthesis notes that summarize progress across all partners and identify areas requiring corrective action or strategic adaptation. This cycle ensures both compliance and continuous learning within the GETF ecosystem.
+
+**Semi-annual results report (GETF) aligned to AfDB donor reporting standards.**
+The semi-annual report will consolidate performance information from all partners, presenting results in a structured format consistent with AfDB donor reporting requirements. It will highlight progress against targets, emerging outcomes, and evidence of gender-transformative impact. The report will also include lessons learned, challenges, and recommendations for adaptive management. This product will be a key accountability tool to donors and will strengthen the Secretariat’s credibility as a results-driven platform.
+
+**Case studies (stories of significant change) and knowledge products.**
+Beyond numeric reporting, case studies will highlight individual or institutional success stories that illustrate how GETF interventions are catalyzing change. These will be collected through structured templates and interviews, ensuring methodological rigor and comparability. Knowledge products—such as policy briefs, presentations, and social media snippets—will distill lessons for wider audiences, enhancing visibility of AFAWA’s work. Together, these deliverables will serve both accountability and advocacy purposes.
+
+**Evaluation support package (scopes/ToRs, quality assurance, management response tracking).**
+The evaluation support package will include standardized scopes of work and ToRs for independent evaluations, ensuring methodological quality and gender sensitivity. The consultant will review evaluation outputs, providing feedback on rigor and alignment to donor expectations. Importantly, a system for tracking management responses will be introduced, ensuring that recommendations are not only documented but also acted upon. This package will institutionalize learning and accountability within GETF operations.
+
+**Final handover (database, documentation, dashboard, SOPs).**
+At the end of the assignment, a complete handover package will be delivered to AfDB and GETF Secretariat. This will include the fully operational MEL database, documented methodologies, configured dashboards, and standard operating procedures (SOPs). The handover ensures that institutional knowledge is retained and that the MEL system continues to function seamlessly after the consultancy concludes. This step is critical to ensuring sustainability and continuity of results measurement for AFAWA.
+
+---
+
+## 3) Staffing and Management
+
+**Staffing: Individual consultant (remote duty station).**
+The assignment will be executed by a single, highly experienced consultant with over 20 years of MEL leadership across multilateral, bilateral, and government programs. Operating from a remote duty station ensures cost-effectiveness while leveraging digital systems for real-time coordination and data management. Where required, the consultant will travel to AfDB headquarters or partner sites, with mission costs covered under AfDB rules. This staffing arrangement balances efficiency with responsiveness to project needs.
+
+**Management: The consultant will report to the AFAWA Coordinator, who in turn coordinates with task managers and the Delivery, Performance Management & Results department.**
+The management structure ensures direct accountability to the AFAWA Coordinator, who is responsible for the overall performance of GETF. The consultant will work closely with AfDB task managers overseeing specific grants, aligning MEL outputs with operational requirements. Coordination with the Delivery, Performance Management & Results (DPR) Department will ensure that GETF reporting is consistent with AfDB corporate standards. This arrangement creates a clear chain of accountability while facilitating cross-departmental learning.
+
+**Collaboration: Financial intermediaries, incubators/accelerators, research institutions, and government entities.**
+The consultant will collaborate closely with a wide range of implementing partners, each with different mandates, capacities, and reporting expectations. Engagement will be both technical—through data system support, templates, and reviews—and relational, fostering trust and buy-in for MEL processes. Collaboration will also extend to government stakeholders, ensuring alignment with national monitoring frameworks where relevant. By bridging across these diverse actors, the consultant will ensure that GETF evidence is robust, credible, and widely owned.
+
+---
+
+Would you like me to also **compile these expanded sections into a clean “Iteration 4 Draft” PDF/Word version** (formatted as part of the full proposal) so you can send Martin one polished file instead of copy-pasting multiple updates?
