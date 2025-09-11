@@ -478,6 +478,129 @@ The management structure ensures direct accountability to the AFAWA Coordinator,
 **Collaboration: Financial intermediaries, incubators/accelerators, research institutions, and government entities.**
 The consultant will collaborate closely with a wide range of implementing partners, each with different mandates, capacities, and reporting expectations. Engagement will be both technical—through data system support, templates, and reviews—and relational, fostering trust and buy-in for MEL processes. Collaboration will also extend to government stakeholders, ensuring alignment with national monitoring frameworks where relevant. By bridging across these diverse actors, the consultant will ensure that GETF evidence is robust, credible, and widely owned.
 
+# F
+Got it. I’ve carefully reviewed your **Technical Proposal – AFAWA MEL Consultant** for grammar, clarity, and professional formatting. Below is the **edited and polished version**, with improved flow, grammar corrections, and formatting enhancements.
+
+---
+
+# Technical Proposal
+
+**Assignment:** Monitoring and Evaluation Consultant to Support the Operationalization of the Multi-Donor Gender Equality Trust Fund (GETF)
+**Prospective Consultant:** Martin Muwaga
+**Date:** 7 September 2025
+
+---
+
+## Executive Summary
+
+The aim of this assignment is to strengthen the evidence base for decision-making toward AFAWA’s objective of unlocking finance for women entrepreneurs. I propose a detailed methodological approach to manage and coordinate the Monitoring, Evaluation, and Learning (MEL) function for the GETF Secretariat.
+
+The proposal outlines my understanding of the assignment and my plan to deliver on the terms of reference. This includes:
+
+* Establishing an adaptive Monitoring & Results Measurement (MRM) system.
+* Coordinating data collection and partner reporting.
+* Producing high-quality donor reports and knowledge products aligned with AfDB standards.
+
+My professional experience in MEL spans more than 25 years across multilateral and bilateral institutions including the World Bank, AfDB, United Nations, USAID, DFID/UK, DANIDA, and the Government of Uganda. This places me in a unique position to execute the assignment effectively.
+
+---
+
+## 1. Background and Strategic Context
+
+The **Affirmative Finance Action for Women in Africa (AFAWA)** is AfDB’s flagship initiative to close the \$42 billion financing gap for women-led MSMEs. Within AFAWA, the **Gender Equality Trust Fund (GETF)** serves as a multi-donor financing platform, pooling resources from bilateral and multilateral partners to catalyze gender-transformative change.
+
+The GETF Secretariat is responsible for ensuring that financial flows are strategically deployed, lessons from implementation are captured, and donor accountability requirements are met. Operationalizing such a facility requires an **adaptive MEL system** capable of managing complexity across diverse implementing partners—financial intermediaries, accelerators, incubators, research institutions, and government entities.
+
+The MEL function must therefore harmonize data practices, combine rigorous quantitative tracking with qualitative insights, and illuminate how financial flows translate into women’s empowerment and enterprise growth.
+
+Beyond accountability, MEL also has a **strategic learning role**—embedding approaches such as outcome harvesting, most significant change, contribution analysis, and developmental evaluation to generate actionable insights. This ensures that GETF is not only compliant with AfDB standards but also responsive to the evolving realities of gender financing in Africa.
+
+---
+
+## 2. Proposed Methodology, Approach, and Implementation Plan
+
+AFAWA, as a social programme, involves non-linear pathways of change. I propose a **complexity-aware MEL approach**, combining traditional and adaptive methodologies to meet the assignment’s requirements.
+
+### 2.1 Implementation of the AFAWA MEL System
+
+Key steps include:
+
+* Mapping the GETF Theory of Change to AFAWA’s M\&E framework.
+* Conducting a gender analysis using the **Social Relations Approach (SRA)**.
+* Developing unified results chains and harmonized reporting cycles.
+* Creating **Indicator Reference Sheets (IRS)** with formulas, definitions, and disaggregation categories.
+* Applying the **Logical Framework Approach (LFA)** while integrating complexity-aware methods (e.g., case studies, outcome harvesting, process tracing).
+* Establishing an **evaluation support package** with standardized ToRs, meta-evaluations, and systems for tracking management responses.
+* Designing and deploying a **platform-agnostic online MEL system** with role-based access, ETL pipelines, audit trails, and harmonized reporting templates.
+
+### 2.2 Data Collection and Coordination
+
+* Training partners in the use of Performance Indicator Reference Sheets (PIRS).
+* Conducting **routine Data Quality Assessments (DQAs)** covering accuracy, completeness, timeliness, reliability, and integrity.
+* Facilitating regular **learning sessions** (pause-and-reflect workshops, quarterly results reviews, portfolio reviews).
+* Documenting findings to serve as vital background material for evaluations.
+* Building partner capacity through workshops and targeted technical support.
+
+### 2.3 Documentation
+
+* Analyzing **sex-disaggregated data** from the MEL system.
+* Complementing quantitative data with **qualitative evidence** (case studies, outcome harvesting, most significant change).
+* Systematically archiving all knowledge products to ensure visibility and learning.
+
+### 2.4 Reporting and Communication
+
+* Producing quarterly, semi-annual, and annual progress reports aligned with AfDB donor standards.
+* Generating synthesized briefs, presentations, and knowledge notes for diverse audiences.
+* Documenting **stories of significant change** to highlight the lived impact of GETF on women entrepreneurs.
+
+---
+
+## 3. Proposed Deliverables
+
+* **Inception Report** with MEL architecture, results chains, IRS set, DQA plan, and system implementation plan.
+* **Configured M\&E Online System** with partner reporting templates and dashboards.
+* **Quarterly Reviews & Synthesis Notes** summarizing portfolio performance.
+* **Semi-Annual & Annual Reports** aligned with AfDB donor reporting standards.
+* **Case Studies & Knowledge Products** including briefs, presentations, and social media snippets.
+* **Evaluation Support Package** with standardized scopes, ToRs, and management response tracking.
+* **Final Handover Package** including database, documentation, dashboards, and SOPs.
+
+---
+
+## 4. Risk Mitigation Plan
+
+* **Data heterogeneity & timeliness:** Harmonized templates, automated validations, and quarterly reviews.
+* **Partner capacity gaps:** Targeted training, guidance notes, and DQA support.
+* **System adoption risks:** Co-creation, simplified interfaces, SOPs, and help-desk support.
+* **Attribution vs. contribution:** Use of contribution analysis triangulating qualitative and quantitative data.
+* **Data privacy & ethics:** Strict access controls, anonymization, informed consent, and compliance with AfDB IT standards.
+
+---
+
+## 5. General Qualifications and Adequacy for the Assignment
+
+* **Over 25 years’ MEL experience** across World Bank, AfDB, UN, USAID, DFID, DANIDA, and Government of Uganda.
+* **Design and leadership** of MEL systems for multi-million-dollar portfolios (e.g., USAID/Uganda’s US\$1.5B portfolio).
+* **Extensive evaluation expertise** (35+ evaluations across agriculture, health, education, private sector).
+* **Academic background:** Master’s degree with High Merit (LSE, UK) in Information Systems & Economics; bachelor’s degree in Statistics.
+* **Proven capacity in gender analysis** (SRA framework, sex-disaggregated indicators, gender M\&E strategies).
+* **Quantitative and qualitative methods** expertise, including PIRS, DQAs, and meta-evaluations.
+* **Excellent communication skills** in English; intermediate French.
+
+---
+
+## 6. Staffing and Management
+
+* **Staffing:** Individual consultant, remote duty station, with cost-effective travel to AfDB HQ/partners as required.
+* **Management:** Direct reporting to the AFAWA Coordinator; alignment with AfDB Delivery, Performance & Results Department.
+* **Collaboration:** Close engagement with implementing partners, task managers, and government stakeholders to ensure ownership and credibility of evidence.
+
+---
+
+✅ This version is grammatically polished, more concise, and formatted professionally for a **technical donor-facing proposal**.
+
+Pyromancer, do you want me to also generate a **clean .docx file** with these edits so you can send it back to Martin in submission-ready format?
+
 ---
 
 Would you like me to also **compile these expanded sections into a clean “Iteration 4 Draft” PDF/Word version** (formatted as part of the full proposal) so you can send Martin one polished file instead of copy-pasting multiple updates?
